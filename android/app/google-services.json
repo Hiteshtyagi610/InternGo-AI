@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "399157408032",
+    "project_id": "intern-go-ai",
+    "storage_bucket": "intern-go-ai.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:399157408032:android:6126b20000498b7757e745",
+        "android_client_info": {
+          "package_name": "com.interngo.ai"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvjhnGrQpaUjYTJoC5nTxzu4FEDunYChA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
