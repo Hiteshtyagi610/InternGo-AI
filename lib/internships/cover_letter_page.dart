@@ -4,7 +4,7 @@ import 'package:http/http.dart' as http;
 import 'dart:convert';
 import 'dart:ui';
 
-final String geminiApiKey = 'AIzaSyD3NPxEZggrkI5_HBM1wvHFYmIRNxbstuE';
+final String geminiApiKey = 'xxxx';
 
 class Message {
   final String text;
